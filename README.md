@@ -21,9 +21,11 @@ Configuration File to import into setting
 
 [Configure Docker and WSL](https://app.getpocket.com/read/1928635131)
 
+# Chocolatey
+
+- Use configuration file to retrieve most used apps.
+
 # Tools
 
 1. Solar-Putty
 2. TCPView
-
-3.  
